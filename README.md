@@ -1,4 +1,3 @@
-##Gallerist
 
 
 Gallerist is a backend web application for car dealership management, built with Java Spring Boot, Hibernate, and Maven, following the MVC (Model-View-Controller) architectural pattern. It prioritizes security and scalability, using JWT (JSON Web Token) for secure authentication and authorization.
