@@ -23,7 +23,6 @@ The **Spring Gallerist App** is a robust and scalable backend web application de
 - **Input Validation**: Protects against common vulnerabilities like SQL Injection.
 
 ### Event Management
-- **Real-Time Updates**: Integration with WebSocket for real-time notifications and updates.
 - **Event Scheduling**: Users can create and manage dealership events.
 
 ## Application Architecture
